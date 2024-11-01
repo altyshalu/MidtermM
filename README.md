@@ -32,6 +32,27 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
+
+
+
+
+# Выполненные задачи
+
+## Задача 1
+Создана ветка `Student_name` и добавлено 3 коммита.
+
+## Задача 2
+Ветку `two` смержили в ветку `three`, затем `three` была пересобрана на `main`.
+
+## Задача 6
+Ветки `two` и `three` были слиты с основной веткой и удалены. 
+
+Скриншот результата:
+![Скриншот удаления веток](путь_к_скриншоту)
+
+## Задача 8
+Создан pull request для слияния ветки `feature` с веткой `main`. В заголовке указаны имя, фамилия и группа.
+
  
 
 
